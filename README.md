@@ -1,5 +1,7 @@
 # Diabetes-Prediction-App
 This is a machine learning-based web application that predicts whether a person has diabetes based on their medical details. It uses Random Forest Classifier and is deployed with Streamlit.
+
+
 🚀 Features
 ✅ User-Friendly UI – Enter patient details via an interactive form.
 ✅ Machine Learning Model – Uses Random Forest with hyperparameter tuning.
@@ -13,8 +15,16 @@ This is a machine learning-based web application that predicts whether a person 
 │── 📜 README.md            # Project documentation
 │── 📜 requirements.txt     # Required dependencies
 
+
+
 pip install -r requirements.txt
+
+
+
 streamlit run app.py
+
+
+
 🖥️ Usage
 Enter patient details such as glucose level, BMI, insulin level, etc.
 Click "Predict" to see if the person is diabetic or not.
